@@ -1,4 +1,4 @@
-This checklist can guide you through your Machine Learning projects. There are eight main steps:  
+This checklist can guide you through(mediante) your Machine Learning projects. There are eight main steps:  
 
 1. Frame the problem and look at the big picture.  
 2. Get the data.  
